@@ -1,0 +1,400 @@
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OtherArticle  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  ICT usage by individuals (Probability: 0.5618263483047485)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/cpc_tr  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts624 (Probability: 0.5596334934234619)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/qol_educ_ea  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tag00067 (Probability: 0.5501061677932739)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/population_and_social_conditions  --http://www.w3.org/2002/07/owl#versionInfo-->  Natural resources (Probability: 0.5465536713600159)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/apro_mt_pslothm  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/CODEDTerm (Probability: 0.5453546047210693)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/web/enlargement-countries/background  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasReference-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/FrequentTerm (Probability: 0.5418813228607178)
+--------------------------------------------------
+Access to labour market for disabled people source LFS  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData1110 (Probability: 0.5381801128387451)
+--------------------------------------------------
+Methodological information on the consolidated European tables for years 2008 and 2009  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle788 (Probability: 0.538034975528717)
+--------------------------------------------------
+education and training statistics  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OECDTerm (Probability: 0.5377947688102722)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/env_eper  --http://www.w3.org/1999/02/22-rdf-syntax-ns#rest-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/education_and_training_statistics (Probability: 0.5367147326469421)
+--------------------------------------------------
+At risk of poverty or social exclusion  AROPE  --http://www.w3.org/2002/07/owl#equivalentClass-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/lfsq_pop (Probability: 0.5329223871231079)
+--------------------------------------------------
+Other Article  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/year_to_date_data (Probability: 0.5323317646980286)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/school_expectancy  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  http://www.w3.org/2002/07/owl#Class (Probability: 0.5322821140289307)
+--------------------------------------------------
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1177:EN:NOT  --http://www.w3.org/2002/07/owl#versionInfo-->  ratio (Probability: 0.5311363339424133)
+--------------------------------------------------
+All types of controlled vocabularies, dictionaries, and others.  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  A class that represents the OECD data (Probability: 0.5303916931152344)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/educ_uoe_enra13  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph1294_785 (Probability: 0.5300635099411011)
+--------------------------------------------------
+ratio  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  Statistical cooperation (Probability: 0.5272580981254578)
+--------------------------------------------------
+The labour force also referred to as the workforce is made up of economically active persons in other words people who are employed or unemployed The activity rate is the share of the labour force in the working age population while the employment rate is the share of employed persons in the working age population The difference between the two rates reflects the level of unemployment relative to the working age population There are many reasons for low activity rates including a large proportion of the working age population that is still studying in early retirement or not available for employment through long term sickness invalidity or caring for family members Activity and employment rates for men in 2015 were consistently higher than those for women in all EU Member States as well as all ASEAN Member States except for Lao PDR see Table 1 Activity rates for women ranged from 50 55 % in Indonesia the Philippines Malta Malaysia and Italy rising to close to 80 % in Vietnam and Sweden Activity rates for men were lowest in Brunei Darussalam 2014 data Croatia Belgium and Bulgaria in the range of 72 73 % and highest in several ASEAN Member States notably Singapore where this rate reached 93 2 % 2014 data Among the EU Member States the largest difference between employment rates for men and women in 2015 was in Malta followed by Italy Greece Romania and the Czech Republic see Figure 1 For the EU 28 as a whole this employment gender gap was 10 5 percentage points in 2015 In a small majority of the ASEAN Member States the gap was greater than in the EU 28 with particularly large differences as large as or larger than in Malta in Indonesia Malaysia and the Philippines these three countries recorded the lowest employment rates for women among ASEAN Member States while among the EU Member States the lowest rates for women were observed in Croatia Malta Italy and Greece The working status of persons in employment was substantially different in most ASEAN Member States compared with the average situation in the EU 28 as can be seen from Figure 2 In 2015 Brunei Darussalam had a particularly high proportion of paid employees and consequently fewer self employed persons referred to as employers if having paid employees or own account workers and family workers The structure in Singapore was similar to the EU 28 average albeit with a greater share of employers and a smaller share of own account workers Elsewhere in the ASEAN Member States the share of contributing family workers was greater than the EU 28 average of 1 1 % ranging from 4 6 % in Malaysia to 38 1 % in Myanmar The share of the self employed was also greater in these other ASEAN countries particularly for own account workers Consequently the share of paid employees was below the EU 28 average in all ASEAN countries except for Brunei Darussalam and Singapore A simplified analysis of the sectoral division of the employed labour force is presented in Figure 3 There are notable differences between the structure in EU Member States and that in most ASEAN Member States with Brunei Darussalam and Singapore again the exceptions In 2015 the services share of the labour force in these two Southeast Asian nations was comparable with that in Luxembourg or the Netherlands whereas in all other ASEAN Member States this share was below the EU 28 average 71 4 % and in half of the ASEAN Member States it was below the share recorded in Romania 47 5 % which was the only EU Member State where less than half of the labour force was employed in services The main counterbalance to the relatively low share of employed persons in services in most ASEAN countries was a relatively high share in agriculture forestry and fishing this peaked at 79 6 % in Lao PDR compared with 4 2 % in the EU 28 and less than 1 0 % in Brunei Darussalam and Singapore  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  3077 (Probability: 0.5262179374694824)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData1279  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/relatedTerm-->  4 (Probability: 0.5211928486824036)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/year_to_date_data  --http://www.w3.org/1999/02/22-rdf-syntax-ns#rest-->  At risk of poverty or social exclusion  AROPE (Probability: 0.5209214687347412)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3119  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Registrar (Probability: 0.5208125710487366)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/product?code=apro_mt_ls&language=en  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference6883 (Probability: 0.5203410387039185)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/punctuality  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/context-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/road_tf_vehmov (Probability: 0.5189608335494995)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph1157_3697  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference10790 (Probability: 0.5140495896339417)
+--------------------------------------------------
+Instead of suppressing tabular data some agencies ask respondents for permission to publish cells even though doing so may cause these respondents sensitive information to be estimated accurately This is referred to as the waiver approach  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/gross_value_added_at_basic_prices (Probability: 0.5134894847869873)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Methodology  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/databasePath-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/current_transferssna (Probability: 0.5128883123397827)
+--------------------------------------------------
+Migrant integration statistics labour market indicators  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Nearly 3 % of household consumption expenditure in the EU was devoted to cultural goods and services The latest HBS data for 2015 indicate that on average households in the European Union EU spent an estimated 2 9 % of their total expenditure on cultural goods and services see Figure 1 note that data are not available for Denmark and France and that these two countries are systematically excluded from the analyses that follow The share of cultural goods and services in total household consumption expenditure varied considerably across the EU Member States Several factors may impact on these shares among which household income price levels the ease of access to cultural venues and cultural habits In 2015 the share of cultural goods and services in household consumption expenditure peaked at 5 0 % in Sweden while an additional eight Member States recorded shares above the EU 28 average Four Member States had the same share 2 9 % as the EU average while a majority of the remaining 13 Member States recorded shares within the range of 1 9 2 8 % the proportion of household expenditure devoted to cultural goods and services was somewhat lower in Cyprus 1 7 % and Bulgaria 1 6 % Figure 1 also shows the average level of household expenditure on cultural goods and services measured in purchasing power standards PPS an artificial currency unit that takes account of the price level differences between EU Member States In 2015 Sweden Germany Austria the United Kingdom Luxembourg and Ireland had the highest levels of expenditure on cultural goods and services with their households spending on average more than 1 000 PPS At the other end of the scale average household expenditure was less than 400 PPS in Hungary 360 PPS Romania 212 PPS and Bulgaria 206 PPS EU household expenditure on cultural goods and services was greatly influenced by levels of income Figure 2 shows that average household expenditure on cultural goods and services rose as a function of income In 2015 mean expenditure of EU households in the fifth income quintile was 1 659 PPS while the average level of expenditure for households in the first income quintile was 473 PPS as such households in the fifth income quintile spent on average 3 5 times as much on cultural goods and services as households in the first income quintile In 2015 the average level of expenditure on cultural goods and services among Cypriot households in the fifth income quintile was 9 4 times as high as that recorded for households in the first income quintile Lithuania and Portugal had the next highest ratios with expenditure among households in the fifth income quintile more than seven times as high as that for households in the first income quintile At the other end of the range in Sweden Slovakia Romania and Slovenia the level of expenditure on cultural goods and services among households in the fifth income quintile was 2 0 2 5 times as high as that for households in the first income quintile The biggest difference in the average level of expenditure on cultural goods and services was generally observed between households in the fourth and fifth income quintiles although in Belgium and Malta there was a larger increase in the level of expenditure between the third and fourth income quintiles Box 1 the classification of individual consumption by purpose defining cultural goods and services For household expenditure the aggregate covering cultural goods and services is defined in terms of the classification of individual consumption by purpose COICOP and comprises 14 different items that may be grouped into the following five broad categories of cultural expenditure equipment IT equipment and equipment for the reception reproduction and recording of vision and sound and recording media CDs DVDs and so on fees and subscriptions this category covers fixed taxes and diverse fees and subscriptions to commercial broadcasters including TV on demand cable and paid TV and various streaming services allowing the reception of audio and video content and also includes the hire of equipment and accessories for culture books and newspapers going out and entertainment cinemas theatres museums libraries concerts and services of photographers and performing artists and articles for artistic expression and creation including cameras video cameras musical instruments stationery and drawing materials EU households devoted an average of 29 % of their cultural expenditure to culture related equipment and 25 % to books and newspapers In 2015 households in the EU spent on average some 28 5 % of their total cultural expenditure on equipment 25 0 % on books and newspapers 19 7 % on fees and subscriptions and 15 3 % on going out and entertainment leaving 11 5 % for articles of artistic expression and creation see Figure 3 A more detailed analysis of the same information is presented in Figure 4 which includes information for all 14 cultural items included in the aggregate for cultural goods and services At this level of detail the highest share of household cultural expenditure across the EU in 2015 was for television and radio fees hire of equipment and accessories for culture 19 7 % while there were four additional items that accounted for a double digit share information processing equipment 14 6 % newspapers and periodicals 13 3 % books 11 7 % and cinemas theatres and concerts 10 6 % Figure 5 provides an analysis of household expenditure on cultural goods and services for the five broad categories among EU Member States In 2015 there were 11 Member States where the highest share of expenditure on cultural goods and services was directed towards spending on equipment this share of equipment peaked in Sweden at 42 0 % There were nine Member States where the highest share of expenditure on cultural goods and services was accounted for by fees and subscriptions with this share peaking in Romania 60 3 % Books and newspapers accounted for the highest proportion of cultural expenditure in five Member States with their highest share recorded in Portugal 38 7 % Spain was the only Member State to report that its highest share of expenditure on cultural goods and services was accounted for by going out and entertainment 27 6 % On average one fifth 20 0 % of household expenditure on cultural goods and services in Poland was devoted to articles for artistic expression and creation the highest share among the Member States for this broad category although there were three other broad categories of cultural goods and services with higher shares in Poland A more detailed picture of average household expenditure on cultural goods and services is presented in Table 1 It shows the diverse nature of cultural expenditure across the EU Member States in 2015 for each of the 14 items identified For example 60 3 % of all spending on cultural goods and services in Romania was directed towards fees and subscriptions compared with only 3 1 % in Cyprus and 4 4 % in the Netherlands This pattern whereby the difference between the highest and lowest shares of cultural expenditure was very large was observed for many of the items for more than half of the 14 items shown in Table 1 the ratio between the highest and lowest shares was at least 10 1 The highest share of cultural expenditure on newspapers and periodicals in 2015 was recorded in Finland 30 4 % Sweden had the highest share of cultural expenditure on information processing equipment 28 1 % while more than one quarter 26 9 % of all cultural expenditure in Portugal was directed towards books Hungary had the highest share of cultural expenditure on cinemas theatres and concerts 23 5 % Lithuania for the reception recording and reproduction of sound and vision 17 6 % Spain for the services of photographers and performing artists 12 4 % and Poland for musical instruments 10 9 % None of the remaining items recorded a share of cultural expenditure that was over 10 % in any of the EU Member States (Probability: 0.5110794901847839)
+--------------------------------------------------
+effects of european union accession part 1 budgeting and financial control oecd sigma paper no 19 march 1998 appendix 3 list of useful terms  --http://www.w3.org/2002/07/owl#backwardCompatibleWith-->  https://stats.oecd.org/glossary/detail.asp?ID=7002 (Probability: 0.5105777382850647)
+--------------------------------------------------
+Motor vehicle movements on national territory by vehicles registration  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCategoryOfGlossaryArticle-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle3474 (Probability: 0.5095930695533752)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Flfst_r_ergau.tsv.gz  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCategoryOfGlossaryArticle-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Other_post_office (Probability: 0.5077397227287292)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm10912  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph8961_2966 (Probability: 0.5075268149375916)
+--------------------------------------------------
+The environmental goods and services sector abbreviated as EGSS and also referred to as environmental economy or eco industries consists of a heterogeneous set of producers of goods and services aiming at the protection of the environment and the management of natural resources Environmental goods and services are products manufactured or services rendered for the main purpose of preventing or minimising pollution degradation or natural resources depletion repairing damage to air water waste noise biodiversity and landscapes reducing eliminating treating and managing pollution degradation and natural resource depletion carrying out other activities such as measurement and monitoring control research and development education training information and communication related to environmental protection or resource management  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  A class with the methodology references / articles / web sources (Probability: 0.5068261623382568)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle1998  --http://www.w3.org/2000/01/rdf-schema#label-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/net_domestic_productndp (Probability: 0.5067984461784363)
+--------------------------------------------------
+European Commission   New cohesion policy  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference4451 (Probability: 0.5065291523933411)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/statistical_data_and_metadata_exchangesdmx  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceSource490 (Probability: 0.5060033202171326)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tepsr_sp410  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Content (Probability: 0.5057730078697205)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ef_lsf  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ExternalLink (Probability: 0.5030723214149475)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/office_automation  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/unemploi (Probability: 0.5013752579689026)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts2489  --http://www.w3.org/2002/07/owl#imports-->  Establishing agri environmental indicators (Probability: 0.4990995228290558)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle8918  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasFrequentTerm-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph3246_3436 (Probability: 0.4977847635746002)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/casic  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  7 (Probability: 0.49743014574050903)
+--------------------------------------------------
+1185  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasEurostatTheme-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle9146 (Probability: 0.4963058829307556)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/icw  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=EU_labour_force_survey (Probability: 0.49528396129608154)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/edat_lfse_24  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference11931 (Probability: 0.4952518045902252)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle696  --http://www.w3.org/2000/01/rdf-schema#range-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/qoe_ewcs_7a1 (Probability: 0.49464741349220276)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/cross_trade_sea_transport  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  A class with the Glossary Articles (Probability: 0.49303486943244934)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/private_creditors  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  Rational utility-maximizing consumers, as price takers, typically react to changes in relative prices by reducing, at least marginally, their consumption of goods and services that have become relatively dearer and increasing their consumption of substitutes that have become relatively cheaper. Substitution results in a negative correlation between the quantity and price relatives. (Probability: 0.4929795265197754)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle3246  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasParagraph-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm515 (Probability: 0.4928967356681824)
+--------------------------------------------------
+Gross electricity generation   main activity electricity only  hydro 1 MW  Code 14 1070341  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceSource490 (Probability: 0.49260491132736206)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference9836  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/title-->  edat_lfse_24 (Probability: 0.4918106496334076)
+--------------------------------------------------
+pdf  --http://www.w3.org/2000/01/rdf-schema#label-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Organic_production (Probability: 0.4909075200557709)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEAReference  --http://www.w3.org/2002/07/owl#versionInfo-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference12986 (Probability: 0.4900599420070648)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/commercial_presence  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  3077 (Probability: 0.48988500237464905)
+--------------------------------------------------
+A class with the Glossary Articles  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/context-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/management_buyout (Probability: 0.4893251061439514)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tipspc23  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph8961_2966 (Probability: 0.489303857088089)
+--------------------------------------------------
+A class with the legislation references / articles / web sources  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Establishing agri environmental indicators (Probability: 0.488803505897522)
+--------------------------------------------------
+https://data.europa.eu/euodp/en/data/dataset/S2243_481_ENG  --http://www.w3.org/2002/07/owl#backwardCompatibleWith-->  See Discussion fora (Probability: 0.48853936791419983)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/punctuality  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/dateUpdated-->  This contact refers to the contact point for data and metadata (Probability: 0.4870607554912567)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData1712  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  Valuables (Probability: 0.48521432280540466)
+--------------------------------------------------
+Fertility  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  International trade in goods statistics   background (Probability: 0.48516547679901123)
+--------------------------------------------------
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1177:EN:NOT  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/context-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/rail_tf_ns15_pt (Probability: 0.48515570163726807)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/ilc_mddd11  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Living conditions in Europe   2018 edition (Probability: 0.48414742946624756)
+--------------------------------------------------
+Full time work  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/dataSource-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph3246_3436 (Probability: 0.4839281737804413)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/enpr_inisoc  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  http://www.w3.org/2002/07/owl#Class (Probability: 0.4836675226688385)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/FrequentTerm  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURL-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/RelatedConcept (Probability: 0.4822644889354706)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm3062  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/cpc_tr (Probability: 0.4816967248916626)
+--------------------------------------------------
+Regulation  EU  No 1090 2010  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  Articulated vehicle (Probability: 0.48121896386146545)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference6883  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/prc_hicp_fp (Probability: 0.48034700751304626)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData1712  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasParagraph-->  1426 (Probability: 0.47940489649772644)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference4451  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  1914 (Probability: 0.4787987768650055)
+--------------------------------------------------
+http://www.w3.org/2002/07/owl#Class  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ExternalLink (Probability: 0.4779631197452545)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Code  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  Sea transport between two ports a port of loading embarkment and a port of unloading disembarkment located in the same country irrespective of the country in which the seagoing vessel is registered (Probability: 0.477400541305542)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/balance_of_payments_by_area  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle9012 (Probability: 0.47643911838531494)
+--------------------------------------------------
+https://frontex.europa.eu/publications/frontex-releases-risk-analysis-for-2020-vp0TZ7  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCategoryOfGlossaryArticle-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle1185 (Probability: 0.47628769278526306)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/RelatedStatisticalData  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/transport_glossary (Probability: 0.4748438894748688)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/labour_statisticslabour_force_statistics  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCategoryOfGlossaryArticle-->  Gross electricity generation   main activity electricity only  hydro 1 MW  Code 14 1070341 (Probability: 0.47417399287223816)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/DedicatedSection  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/relatedTerm-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle2036 (Probability: 0.473789781332016)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData1110  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/context-->  Regulation  EC  No 762 2008 (Probability: 0.4737739562988281)
+--------------------------------------------------
+Coastal region  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/id-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1203 (Probability: 0.4721482992172241)
+--------------------------------------------------
+Express road  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts624 (Probability: 0.47033989429473877)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Social_infrastructure_and_services_-_ODA  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasReference-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Flfst_r_ergau.tsv.gz (Probability: 0.467241108417511)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/casic  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference399 (Probability: 0.464066743850708)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle1998  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Unemployment (Probability: 0.46358317136764526)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/GlossaryArticleCategory  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3206 (Probability: 0.463020384311676)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/line_item_budgeting  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle9146 (Probability: 0.46113333106040955)
+--------------------------------------------------
+The labour force also referred to as the workforce is made up of economically active persons in other words people who are employed or unemployed The activity rate is the share of the labour force in the working age population while the employment rate is the share of employed persons in the working age population The difference between the two rates reflects the level of unemployment relative to the working age population There are many reasons for low activity rates including a large proportion of the working age population that is still studying in early retirement or not available for employment through long term sickness invalidity or caring for family members Activity and employment rates for men in 2015 were consistently higher than those for women in all EU Member States as well as all ASEAN Member States except for Lao PDR see Table 1 Activity rates for women ranged from 50 55 % in Indonesia the Philippines Malta Malaysia and Italy rising to close to 80 % in Vietnam and Sweden Activity rates for men were lowest in Brunei Darussalam 2014 data Croatia Belgium and Bulgaria in the range of 72 73 % and highest in several ASEAN Member States notably Singapore where this rate reached 93 2 % 2014 data Among the EU Member States the largest difference between employment rates for men and women in 2015 was in Malta followed by Italy Greece Romania and the Czech Republic see Figure 1 For the EU 28 as a whole this employment gender gap was 10 5 percentage points in 2015 In a small majority of the ASEAN Member States the gap was greater than in the EU 28 with particularly large differences as large as or larger than in Malta in Indonesia Malaysia and the Philippines these three countries recorded the lowest employment rates for women among ASEAN Member States while among the EU Member States the lowest rates for women were observed in Croatia Malta Italy and Greece The working status of persons in employment was substantially different in most ASEAN Member States compared with the average situation in the EU 28 as can be seen from Figure 2 In 2015 Brunei Darussalam had a particularly high proportion of paid employees and consequently fewer self employed persons referred to as employers if having paid employees or own account workers and family workers The structure in Singapore was similar to the EU 28 average albeit with a greater share of employers and a smaller share of own account workers Elsewhere in the ASEAN Member States the share of contributing family workers was greater than the EU 28 average of 1 1 % ranging from 4 6 % in Malaysia to 38 1 % in Myanmar The share of the self employed was also greater in these other ASEAN countries particularly for own account workers Consequently the share of paid employees was below the EU 28 average in all ASEAN countries except for Brunei Darussalam and Singapore A simplified analysis of the sectoral division of the employed labour force is presented in Figure 3 There are notable differences between the structure in EU Member States and that in most ASEAN Member States with Brunei Darussalam and Singapore again the exceptions In 2015 the services share of the labour force in these two Southeast Asian nations was comparable with that in Luxembourg or the Netherlands whereas in all other ASEAN Member States this share was below the EU 28 average 71 4 % and in half of the ASEAN Member States it was below the share recorded in Romania 47 5 % which was the only EU Member State where less than half of the labour force was employed in services The main counterbalance to the relatively low share of employed persons in services in most ASEAN countries was a relatively high share in agriculture forestry and fishing this peaked at 79 6 % in Lao PDR compared with 4 2 % in the EU 28 and less than 1 0 % in Brunei Darussalam and Singapore  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasEurostatTheme-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle9146 (Probability: 0.45900383591651917)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts2489  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/statistical_data_and_metadata_exchangesdmx (Probability: 0.4577564299106598)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/enpr_ps  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/ilc_mddd11 (Probability: 0.45713406801223755)
+--------------------------------------------------
+7  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  http://ec.europa.eu/eurostat/web/asylum-and-managed-migration/publications (Probability: 0.45525211095809937)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/basic_priceesa  --http://www.w3.org/1999/02/22-rdf-syntax-ns#rest-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Methodology (Probability: 0.45299819111824036)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/CODEDTerm  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  4 (Probability: 0.45256924629211426)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Reference  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/remark-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/earn_net (Probability: 0.45235398411750793)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle1185  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasFrequentTerm-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/trng_cvt_32n1 (Probability: 0.4492654800415039)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle3246  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  Enterprises using software solutions like CRM to analyse information about clients for marketing purposes (Probability: 0.44914382696151733)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle3246  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tipspc23 (Probability: 0.4456844925880432)
+--------------------------------------------------
+Fertility  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm6261 (Probability: 0.44484764337539673)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts769  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph463_3866 (Probability: 0.44448405504226685)
+--------------------------------------------------
+reg_ef_2010  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  Statistical Data and Metadata Exchange SDMX (Probability: 0.44386857748031616)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Cancer_statistics_-_specific_cancers  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasReference-->  Structural Indicators (Probability: 0.4437035620212555)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/gender  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/sourcePublication-->  Living conditions in Europe   income distribution and income inequality (Probability: 0.4409879446029663)
+--------------------------------------------------
+prc_hicp_fp  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  Reinvested earnings consist of the direct investors share  in proportion to direct equity participation  of earnings not distributed as dividends by subsidiaries or associates and earnings of branches not remitted to the direct investor (Probability: 0.4406949281692505)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/cpc_tr  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  5 (Probability: 0.43719202280044556)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle8176  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1203 (Probability: 0.43714040517807007)
+--------------------------------------------------
+Living conditions in Europe   income distribution and income inequality  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/context-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/ilc_hch06 (Probability: 0.4311036169528961)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/non_contributory_pension_scheme  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/remark-->  A class that represents the OECD data (Probability: 0.43010371923446655)
+--------------------------------------------------
+European sector accounts  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/RelatedStatisticalData (Probability: 0.4299616813659668)
+--------------------------------------------------
+European Commission   New cohesion policy  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  System of health accounts SHA (Probability: 0.429639995098114)
+--------------------------------------------------
+http://www.w3.org/2002/07/owl#Class  --http://www.w3.org/2002/07/owl#equivalentClass-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/lfsq_pop (Probability: 0.4294348359107971)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference5455  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Excel (Probability: 0.42781195044517517)
+--------------------------------------------------
+Statistical cooperation  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts769 (Probability: 0.4266902506351471)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/asylum_and_migration  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  Enterprises with CVT planning by type of planning type of training provided and NACE Rev 2 activity % of all enterprises (Probability: 0.42483121156692505)
+--------------------------------------------------
+System of health accounts SHA  --http://www.w3.org/2002/07/owl#versionInfo-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/line_item_budgeting (Probability: 0.424808531999588)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/non_contributory_pension_scheme  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/relatedTheme-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm515 (Probability: 0.42431628704071045)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle696  --http://www.w3.org/2002/07/owl#backwardCompatibleWith-->  Living conditions in Europe   income distribution and income inequality (Probability: 0.42321860790252686)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/asylum-and-managed-migration/publications  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle788 (Probability: 0.42087170481681824)
+--------------------------------------------------
+A class with the dedicated section resources  --http://www.w3.org/2002/07/owl#backwardCompatibleWith-->  Equity capital (Probability: 0.41936829686164856)
+--------------------------------------------------
+1426  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/pension_plan (Probability: 0.4174622595310211)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle2986  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/buyout (Probability: 0.4172501862049103)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Social_infrastructure_and_services_-_ODA  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/opportunity_cost (Probability: 0.41718655824661255)
+--------------------------------------------------
+5  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/remark-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceSource182 (Probability: 0.41638410091400146)
+--------------------------------------------------
+A class with the methodology references / articles / web sources  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/school_expectancy (Probability: 0.41505393385887146)
+--------------------------------------------------
+Fertility  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURL-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/punctuality (Probability: 0.4103894531726837)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/government-finance-statistics/overview  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  http://www.w3.org/2004/02/skos/core#Concept (Probability: 0.41030797362327576)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/government-finance-statistics/overview  --http://www.w3.org/2000/01/rdf-schema#subClassOf-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference9282 (Probability: 0.40919026732444763)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Certifier  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  http://ec.europa.eu/eurostat/web/labour-market/labour-costs (Probability: 0.40881407260894775)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OECDTerm  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference10659 (Probability: 0.40818163752555847)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle9146  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/fileLink-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle954 (Probability: 0.4066023826599121)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/product?code=apro_mt_ls&language=en  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/context-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData1641 (Probability: 0.4065206050872803)
+--------------------------------------------------
+Articulated vehicle  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/qol_hlt_st (Probability: 0.4062463045120239)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts2489  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Source (Probability: 0.40379783511161804)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference8523  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURL-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/GlossaryArticleCategory (Probability: 0.3997659683227539)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle3302  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Motor vehicle movements on national territory by vehicles registration (Probability: 0.3993529975414276)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/casic  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCategoryOfGlossaryArticle-->  http://ec.europa.eu/eurostat/web/european-neighbourhood-policy/publications (Probability: 0.39338353276252747)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/ilc_hch06  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm10912 (Probability: 0.3920448422431946)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle239  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  https://stats.oecd.org/glossary/detail.asp?ID=4280 (Probability: 0.39073657989501953)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference313  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle1885 (Probability: 0.39026162028312683)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph3392_3666  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference7051 (Probability: 0.3897135257720947)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/trng_aes_200  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  http://ec.europa.eu/eurostat/product?code=apro_mt_ls&language=en (Probability: 0.38963523507118225)
+--------------------------------------------------
+education and training statistics  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCategoryOfGlossaryArticle-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle1185 (Probability: 0.38921383023262024)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle831  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  1185 (Probability: 0.38795116543769836)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference7894  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/dataSource-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceFurther134 (Probability: 0.38658446073532104)
+--------------------------------------------------
+International trade in goods statistics   background  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference4451 (Probability: 0.38195541501045227)
+--------------------------------------------------
+Funding level pension plan  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Sea transport between two ports a port of loading embarkment and a port of unloading disembarkment located in the same country irrespective of the country in which the seagoing vessel is registered (Probability: 0.3802652955055237)
+--------------------------------------------------
+pdf  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  The environmental goods and services sector abbreviated as EGSS and also referred to as environmental economy or eco industries consists of a heterogeneous set of producers of goods and services aiming at the protection of the environment and the management of natural resources Environmental goods and services are products manufactured or services rendered for the main purpose of preventing or minimising pollution degradation or natural resources depletion repairing damage to air water waste noise biodiversity and landscapes reducing eliminating treating and managing pollution degradation and natural resource depletion carrying out other activities such as measurement and monitoring control research and development education training information and communication related to environmental protection or resource management (Probability: 0.3787861466407776)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/SEAReference  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Non profit institution serving households (Probability: 0.378371924161911)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/cpc_tr  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference8523 (Probability: 0.376498281955719)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData1641  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  trng_cvt_32n1 (Probability: 0.372252881526947)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Code  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/ilc_hch06 (Probability: 0.3720708191394806)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/educ_mofo_fld  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/title-->  This contract may be part of a broader employment contract it may be set forth in the plan rules or documents or it may be required by law In addition to having an explicit retirement objective pension plans may offer additional benefits such as disability sickness and survivors benefits (Probability: 0.3688904345035553)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle677  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Any person who makes a voyage on a seagoing vessel Service staff assigned to seagoing vessels are not regarded as passengers (Probability: 0.36472371220588684)
+--------------------------------------------------
+Motor vehicle movements on national territory by vehicles registration  --http://www.w3.org/1999/02/22-rdf-syntax-ns#rest-->  A class with the dedicated section resources (Probability: 0.3600505292415619)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts325  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/definition-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/GlossaryArticleCategory (Probability: 0.35722291469573975)
+--------------------------------------------------
+Access to labour market for disabled people source LFS  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference9999 (Probability: 0.3560846447944641)
+--------------------------------------------------
+Enterprise group  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  A class with the methodology references / articles / web sources (Probability: 0.35604867339134216)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceFurther134  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://data.europa.eu/euodp/en/data/dataset/S2243_481_ENG (Probability: 0.35596999526023865)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/transport_glossary  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Article (Probability: 0.3557765483856201)
+--------------------------------------------------
+System of health accounts SHA  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle831 (Probability: 0.34897565841674805)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle1185  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/title-->  Creditors that are neither governments nor public sector agencies These include private bondholders private banks other private financial institutions and manufacturers exporters and other suppliers of goods that have a financial claim (Probability: 0.3463588356971741)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/current_transferssna  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm3062 (Probability: 0.3454166650772095)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle8176  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  CODEDTerm (Probability: 0.34529048204421997)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/RelatedStatisticalData  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/title-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/disclosure_regulationsfor_pension_plans (Probability: 0.34259966015815735)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1203  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/dateUpdated-->  Fertility (Probability: 0.3367767333984375)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/educ_uoe_enra13  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  Valuables (Probability: 0.33589112758636475)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/casic  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference6883 (Probability: 0.33475756645202637)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Excel  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/databasePath-->  Agriculture  forestry and fishery statistics (Probability: 0.3325984477996826)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Publication  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCategoryOfGlossaryArticle-->  Fertility (Probability: 0.3317382335662842)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/road_tf_vehmov  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEAReference (Probability: 0.3316286504268646)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/t2020_rk3  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Database by themes; Population and social conditions; Education and training; Participation in education and training; Adult learning; Participation in education and training last 4 weeks population aged 15 ; by type of education; Participation rate in education and training last 4 weeks by type; sex; age and labour status (Probability: 0.33152151107788086)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OtherArticle  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Organic_production (Probability: 0.32776346802711487)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/DedicatedSection  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  Natural resources (Probability: 0.3271080553531647)
+--------------------------------------------------
+Fertility  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=International_trade_in_goods_by_invoicing_currency (Probability: 0.30848100781440735)
+--------------------------------------------------
+sts_intv_a  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/title-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/naidsq_10_nf_tr (Probability: 0.3036651909351349)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Legislation  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURL-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceSource490 (Probability: 0.2988746762275696)
+--------------------------------------------------
+A class with the related statistical data references for the glossray articles  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/title-->  https://stats.oecd.org/glossary/detail.asp?ID=190 (Probability: 0.29756438732147217)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/gender  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/financial_statistics (Probability: 0.29727399349212646)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference7894  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/school_expectancy (Probability: 0.2929680049419403)
+--------------------------------------------------
+labour statistics labour force statistics  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Cross cutting topics; Quality of life; Material living conditions; Material conditions; Material deprivation; Severe material deprivation rate by age and sex (Probability: 0.2895437777042389)
+--------------------------------------------------
+united states bureau of census glossary of selected abbreviations and acronyms webopedia com  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/unemploi (Probability: 0.28911712765693665)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1203  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OECDTerm (Probability: 0.27888211607933044)
+--------------------------------------------------
+Regulation  EU  No 1090 2010  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCategoryOfGlossaryArticle-->  Fertility (Probability: 0.2786344587802887)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference7894  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Feduc_mofo_fld.tsv.gz (Probability: 0.27396148443222046)
+--------------------------------------------------
+edat_aes_l3  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/context-->  Data expressed in cumulative terms from the beginning of the year sometimes referred to as cumulative data (Probability: 0.25954994559288025)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Reference  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:United_Nations_Conference_on_Trade_and_Development_(UNCTAD) (Probability: 0.2560778856277466)
+--------------------------------------------------
+The regional total research and development R D personnel comprises all persons employed directly for research and development R D in a region as well as those providing direct services such as R D managers administrators and clerical staff This indicator can be broken down by institutional sector and or by occupation Regional statistics on total R D personnel should be collected in terms of both full time equivalents and head counts  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3206 (Probability: 0.24522069096565247)
+--------------------------------------------------
+Data expressed in cumulative terms from the beginning of the year sometimes referred to as cumulative data  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Aquaculture (Probability: 0.24281762540340424)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/FrequentTerm  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/prc_hicp_fp (Probability: 0.24228526651859283)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/product?code=apro_mt_ls&language=en  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/content-->  At risk of poverty or social exclusion  AROPE (Probability: 0.24077686667442322)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/asylum_and_migration  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Fapro_ec_strhen.tsv.gz (Probability: 0.24063359200954437)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/env_eper  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/line_item_budgeting (Probability: 0.23357221484184265)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle1884  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  Summaries of EU legislation (Probability: 0.22890087962150574)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph6265_1326  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  http://ec.europa.eu/eurostat/web/asylum-and-managed-migration/publications (Probability: 0.22779877483844757)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1203  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Legislation (Probability: 0.2260339856147766)
+--------------------------------------------------
+5039  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURL-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm3062 (Probability: 0.2035190910100937)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/collective_agreement  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  Childcare and education arrangements (Probability: 0.18897885084152222)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm3328  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/title-->  https://stats.oecd.org/glossary/detail.asp?ID=190 (Probability: 0.18007612228393555)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/GlossaryArticleCategory  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph3246_3436 (Probability: 0.17806607484817505)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData626  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  Funding level pension plan (Probability: 0.12863168120384216)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Organic_production  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasCode-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference4451 (Probability: 0.10378674417734146)
+--------------------------------------------------
+2001-11-07T00:00:00  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hasURI-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData1110 (Probability: 0.06540681421756744)
+--------------------------------------------------
+Enterprise group  --http://www.w3.org/2002/07/owl#versionInfo-->  Coastal region (Probability: 0.03769216313958168)
+--------------------------------------------------
