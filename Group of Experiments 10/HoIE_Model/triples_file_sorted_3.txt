@@ -1,0 +1,600 @@
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph7253_1869  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Table (Probability: 0.9673687815666199)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/local_labour_markets  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=International_statistical_cooperation (Probability: 0.9395889639854431)
+--------------------------------------------------
+Paragraph  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Real income is obtained by deflating any income flow by a price index in order to measure the purchasing power of the item in question over a designated numeraire set of goods and services (Probability: 0.9167874455451965)
+--------------------------------------------------
+apro_mk_strpd  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Database by themes; General and regional statistics; Non EU countries; Southern European Neighbourhood Policy countries ENP South ; Population and social conditions; Education; Expenditure on education (Probability: 0.9161920547485352)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tec00019  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle9146 (Probability: 0.9125739932060242)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/employe  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Land use (Probability: 0.8914468884468079)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/isic  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  http://purl.org/dc/dcmitype/Text (Probability: 0.8796206116676331)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Hotels_and_similar_accommodation  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Flfsa_pgaed.tsv.gz (Probability: 0.8522853255271912)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/teicp030  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/prices_and_purchasing_power_partities (Probability: 0.808178722858429)
+--------------------------------------------------
+Productivity of artificial land  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Social protection expenditure (Probability: 0.7816553115844727)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/GlossaryTerm  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Related Concept (Probability: 0.7747077345848083)
+--------------------------------------------------
+Expert judgment  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Ftec00019.tsv.gz (Probability: 0.7428670525550842)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/environmental_statistics  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/GlossaryArticle (Probability: 0.7352625131607056)
+--------------------------------------------------
+All types of controlled vocabularies, dictionaries, and others.  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Long range transport of air pollutants LRTAP refers to the atmospheric transport of air pollutants within a moving air mass for a distance greater than 100 kilometres (Probability: 0.7151263356208801)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Fcpc_pslm.tsv.gz  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  All types of controlled vocabularies, dictionaries, and others. (Probability: 0.7099554538726807)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/t_demo_fer  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OECDTerm (Probability: 0.7041369676589966)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Archive:Foreign_affiliates_statistics_-_employment_by_business_function  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/education_and_training_statistics (Probability: 0.6968594193458557)
+--------------------------------------------------
+Land cover statistics  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Hotels_and_similar_accommodation (Probability: 0.6912539601325989)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3231  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference1450 (Probability: 0.6867790818214417)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tps00204  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Reference (Probability: 0.6840752363204956)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/ilc_mded01  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle434 (Probability: 0.6812841296195984)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ilc_md  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Database by themes; Population and social conditions; Labour market; Earnings; Structure of earnings survey 2018; Annual earnings; Mean annual earnings by sex; economic activity and employment contract (Probability: 0.6740937829017639)
+--------------------------------------------------
+apro_ec  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  A Statistical message is a message carrying statistical data (Probability: 0.6602123975753784)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/anti_dumping_duty  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  http://ec.europa.eu/eurostat/web/health/health-status-determinants (Probability: 0.6578486561775208)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference2772  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  European Commission   Internal market  Industry  Entrepreneurship and SMEs (Probability: 0.65468829870224)
+--------------------------------------------------
+tag00055  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hsw_acc_work (Probability: 0.6463358998298645)
+--------------------------------------------------
+The EU 28 s share of world exports of goods and services was 17 8 % in 2017 On average every day the EU 28 exports millions of euros worth of goods and services to the rest of the world while it imports millions more While the value of the EU s international trade in goods and services with the rest of the world has expanded at a relatively fast pace compared with the value of trade between EU Member States intra EU trade this has not prevented a gradual reduction in the EU s share of global trade Between 2007 and 2012 the EU 28 s share of global trade fell strongly before recovering somewhat through until 2017 In 2017 some 17 8 % of world exports for goods and services originated from the EU 28 as such its share of world exports was 1 0 percentage points lower than a decade earlier 18 8 % but 1 3 percentage points higher than the share 16 5 % recorded in 2012 It should be noted that the high share in 2007 preceded the global financial and economic crisis which impacted strongly and for several years on the EU s economy By contrast there was a more marked reduction in the share of the EU 28 in world imports for goods and services as its share of the global trade was 16 3 % in 2017 a reduction of 3 7 percentage points compared with a decade earlier The most striking feature concerning developments for world shares of international trade in goods and services between 2007 and 2017 was the continued progression of China as one of the world s leading trading nations China s share of the world exports for goods and services rose from 9 8 % to 13 5 % during the period under consideration while its share of imports grew at an even faster pace increasing by 5 1 percentage points to reach 12 6 % in 2017 see Figure 3  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/enps_lfsa_act (Probability: 0.646142303943634)
+--------------------------------------------------
+A class with the external references / articles / web sources  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/SEAReference (Probability: 0.6386568546295166)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/product?code=KS-01-20-273&language=en  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Reference (Probability: 0.6314979791641235)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm1581  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Tables on EU policy; Employment and social policy indicators; Social inclusion and social policy indicators; Pensions Portfolio; First streamlined objective pensions adequate pensions; At risk of poverty rate for pensioners EU SILC survey (Probability: 0.6247690916061401)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/lfst_hhptety  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  3419 (Probability: 0.6215887665748596)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Data  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Territorial_typologies_manual (Probability: 0.6209151744842529)
+--------------------------------------------------
+Congresses and conferences form an economic sector defined by the concentration of people in time and space around specialised knowledge or themes requiring multipartite meeting  The transmission  exchange and renewal of knowledge constitutes the main objective of an activity whose social  cultural and economic repercussions are abundant  However  other congresses focused on leisure and non scientific themes do exist  contributing to the exchange of experiences and lifestyles If concentrating people is the main object of the activity  tourism is the environment in which it is produced  All congresses generate movements of people  often from great distances  and have their own tourist needs  requiring certain specific conditions  Congresses and conferences have been widely recognised within professional tourism  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Paragraph (Probability: 0.6149253845214844)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/GlossaryTerm  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Error report (Probability: 0.6099411249160767)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/migr_ressr  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  A class that contains all the subclass that indicate the type of references for the statistical explained articles (Probability: 0.609748899936676)
+--------------------------------------------------
+a dictionary of statistical terms 5th edition prepared for the international statistical institute by f h c marriott published for the international statistical institute by longman scientific and technical  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/apro_ec_egghen (Probability: 0.6095232367515564)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/dt_cpa  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  A class with other articles (Probability: 0.6087408661842346)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/cens_01n  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts262 (Probability: 0.6085338592529297)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/social-protection/data/database  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Regression (Probability: 0.6060537695884705)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/GlossaryTerm  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tespnthird (Probability: 0.60597163438797)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3581  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference6575 (Probability: 0.6050130724906921)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/earn_ses18_29  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  4091 (Probability: 0.6049632430076599)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm632  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/RelatedConcept (Probability: 0.6026601195335388)
+--------------------------------------------------
+Transport equipment assets consists of equipment for moving people and objects other than any such equipment acquired by households for final consumption  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  CPC21 Information and communication technology 2021 06 xlsx (Probability: 0.6019428968429565)
+--------------------------------------------------
+The first of these two approaches is that of confidence intervals due to Neyman 1937 which regards the value of the population parameter as fixed and the limits to the intervals as random variables A second approach is that of fiducial limits due to R A Fisher 1930 where the population parameter is regarded as having a fiducial probability distribution which determines the limits  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Applied_research (Probability: 0.6015525460243225)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/estimation  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  measur (Probability: 0.6000714302062988)
+--------------------------------------------------
+Labour force number of persons and farm work AWU by type of farming 2 digit and economic size of farm ESU  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference2179 (Probability: 0.5998684763908386)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm8823  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Dublin statistics (Probability: 0.5985739827156067)
+--------------------------------------------------
+Database by themes; Population and social conditions; Labour market; Employment and unemployment Labour force survey ; LFS ad hoc modules; 2020 Accidents at work and other work related health problems; Accidents at work; Persons reporting an accident at work by sex; age and educational attainment level  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/EurostatTheme (Probability: 0.5974505543708801)
+--------------------------------------------------
+2003-04-28T00:00:00  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts2161 (Probability: 0.5972665548324585)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle910  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  General overview (Probability: 0.5970742106437683)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle3856  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/lc_n08stu_r1 (Probability: 0.5943971276283264)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/enps_educ_figdp  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://eacea.ec.europa.eu/national-policies/eurydice/sites/eurydice/files/ec0319375enn_0.pdf (Probability: 0.5928008556365967)
+--------------------------------------------------
+gov_10a_ggfa  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  All articles on short term business statistics (Probability: 0.5923363566398621)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/easili  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hsw_acc_work (Probability: 0.588855504989624)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tus_00travel  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Hotels_and_similar_accommodation (Probability: 0.588849663734436)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle72  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/sdg_14_50 (Probability: 0.5879683494567871)
+--------------------------------------------------
+Biofuels  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/water_resouces_and_sustainable_development (Probability: 0.5864328145980835)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle75  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle1888 (Probability: 0.585625946521759)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/field  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle420 (Probability: 0.5843545794487)
+--------------------------------------------------
+Transformation input in Autoproducer CHP Plants  Code B 101035  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  2001-11-13T00:00:00 (Probability: 0.5843328237533569)
+--------------------------------------------------
+1792  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph613_3309 (Probability: 0.5839901566505432)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/dt_cpa  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Reference (Probability: 0.5828652381896973)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference10790  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  See Data review (Probability: 0.5819612145423889)
+--------------------------------------------------
+Crime location  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference1822 (Probability: 0.5797798037528992)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/gross_gross_tonne_kilometre_hauledrail_transport  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Stocks held by stock holding organisations on national territory  Category h  at the end of the period  Include stocks held by both public and private corporations established to maintain stocks exclusively for emergency purposes  including central stockholding entities  CSEs  defined by Directive 2009 119 EC  It does not include mandatory stocks held by private companies (Probability: 0.5795861482620239)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OECDTheme  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle8918 (Probability: 0.5795811414718628)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle72  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1872 (Probability: 0.5788805484771729)
+--------------------------------------------------
+Divestiture refers to firms selling part of their current operations  divisions or subsidiaries  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  It provides the means for identifying relationships usually hierarchical between categories (Probability: 0.5773914456367493)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/t_spr  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Paragraph (Probability: 0.5751426815986633)
+--------------------------------------------------
+Blended payments  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  EurostatTheme (Probability: 0.5745989680290222)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OECDTheme  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/land_and_buildings (Probability: 0.5738906264305115)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle1350  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  mii_act_r (Probability: 0.5737285017967224)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/local_labour_markets  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph8267_2514 (Probability: 0.5705534815788269)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/environment_and_energy  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/RelatedStatisticalData (Probability: 0.5682889819145203)
+--------------------------------------------------
+med_ag32  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  glossary for transport statistics prepared by the intersecretariat working group on transport statistics eurostat european conference of ministers of transport ecmt united nations economic commission for europe unece (Probability: 0.5676121711730957)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/teieuro_na  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm9664 (Probability: 0.5643810629844666)
+--------------------------------------------------
+Stocks held by stock holding organisations on national territory  Category h  at the end of the period  Include stocks held by both public and private corporations established to maintain stocks exclusively for emergency purposes  including central stockholding entities  CSEs  defined by Directive 2009 119 EC  It does not include mandatory stocks held by private companies  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Real income is obtained by deflating any income flow by a price index in order to measure the purchasing power of the item in question over a designated numeraire set of goods and services (Probability: 0.5643340349197388)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/transport/overview  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/lc_n08stu_r1 (Probability: 0.5618212819099426)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle1906  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/epidemiology (Probability: 0.561008095741272)
+--------------------------------------------------
+Alphabetised list of terms with definitions  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1194 (Probability: 0.5602781772613525)
+--------------------------------------------------
+glossary for transport statistics prepared by the intersecretariat working group on transport statistics eurostat european conference of ministers of transport ecmt united nations economic commission for europe unece  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/environmental_statistics (Probability: 0.5589472055435181)
+--------------------------------------------------
+Database by themes; Industry; trade and services; Structural business statistics; SBS trade; Breakdown of turnover by product trade  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  a dictionary of statistical terms 5th edition prepared for the international statistical institute by f h c marriott published for the international statistical institute by longman scientific and technical (Probability: 0.5583874583244324)
+--------------------------------------------------
+The ESS Report 2013  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Database by themes; Transport; Road transport; Road transport equipment stock of vehicles; Road tractors by type of motor energy (Probability: 0.5578498244285583)
+--------------------------------------------------
+4  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Non life insurance claims (Probability: 0.557532012462616)
+--------------------------------------------------
+1467  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/sbs_pen_7e (Probability: 0.5568995475769043)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/trend  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/DedicatedSection (Probability: 0.5556855797767639)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/unit_labour_costsoecd  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/lfsa_pgaed (Probability: 0.5492834448814392)
+--------------------------------------------------
+Dedicated Section  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/road_eqs_roaene (Probability: 0.5483574271202087)
+--------------------------------------------------
+A class with the related statistical data references for the glossray articles  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/products_and_prices (Probability: 0.5483460426330566)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/cens_01n  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference868 (Probability: 0.5478026866912842)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Unemployment_statistics  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  228 (Probability: 0.5477892160415649)
+--------------------------------------------------
+Basic figures on the European Neighbourhood Policy   East countries   2016 edition  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/environment_and_energy (Probability: 0.5477848649024963)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference868  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  My Country in a bubble (Probability: 0.5432153344154358)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/transport/overview  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Abstract (Probability: 0.5416231751441956)
+--------------------------------------------------
+A class with the further info references for the glossray articles  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1043 (Probability: 0.5405970811843872)
+--------------------------------------------------
+Tables on EU policy; Employment and social policy indicators; Social inclusion and social policy indicators; Pensions Portfolio; First streamlined objective pensions adequate pensions; At risk of poverty rate for pensioners EU SILC survey  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://stats.oecd.org/glossary/detail.asp?ID=322 (Probability: 0.5399907231330872)
+--------------------------------------------------
+http://schema.org/WebPage  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference5138 (Probability: 0.5399507284164429)
+--------------------------------------------------
+Database by themes; Population and social conditions; Health; Health status; Self perceived health and well being; Severity of bodily pain by sex; age and country of citizenship  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts707 (Probability: 0.5390124917030334)
+--------------------------------------------------
+A class with the external references / articles / web sources  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/isic (Probability: 0.5353999137878418)
+--------------------------------------------------
+Designed to carry relatively small parcels of higher value chemicals  such as acids or polymers  Ships are typically relatively small  up to around 25 000 dwt  Chemical tankers are classed according to categories dictated by the International Maritime Organisation  IMO  that classes chemicals according to the level of hazard they represent  IMO class I represents the greatest hazard and requires ships with sophisticated tanks and cargo handling systems  often manufactured from stainless steel  IMO class II represents a lower class of hazard with relatively normal tanks and cargo handling systems  IMO class III refers to low hazard chemicals  such as many petroleum products  There is a blurring of the distinction between products and chemical tankers for these lower classifications  Lloyd  AC 22s Register  AC 22s classification chemical products carrier normally refers to a products tanker rather than a chemical tanker  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/migr_res (Probability: 0.5351709127426147)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tus_00travel  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Refers to information on sample design  sample size  sample frame  sample updating  etc (Probability: 0.5329908728599548)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle406  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hlth_cd_gmor (Probability: 0.5295186638832092)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference9238  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/sbs_r (Probability: 0.5291767120361328)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/cache/metadata/en/isoc_reg_esms.htm  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/public_management (Probability: 0.5282837748527527)
+--------------------------------------------------
+2003-03-06T00:00:00  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm10497 (Probability: 0.5273973345756531)
+--------------------------------------------------
+6  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData168 (Probability: 0.5235362648963928)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/edat_aes_l51  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceSource483 (Probability: 0.5234451293945312)
+--------------------------------------------------
+My Country in a bubble  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  A class with the Eurostat themes (Probability: 0.5219922065734863)
+--------------------------------------------------
+Land and buildings  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Table (Probability: 0.5180650949478149)
+--------------------------------------------------
+Overcrowding rate by income quintile total population EU SILC survey  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tespnthird (Probability: 0.5114496350288391)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference13022  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/social_security_benefits_in_cash (Probability: 0.5111124515533447)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph1202_1195  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Standard classifications are those that follow prescribed rules and are generally recommended and accepted They aim to ensure that information is classified consistently regardless of the collection source point of time etc (Probability: 0.5097062587738037)
+--------------------------------------------------
+A class that contains the information for the paragraphs of the Statistics Explained Articles  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph2177_1581 (Probability: 0.5082775950431824)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tps00204  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  apro_mk_strpd (Probability: 0.5082542896270752)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/FrequentTerm  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  The EU 28 s share of world exports of goods and services was 17 8 % in 2017 On average every day the EU 28 exports millions of euros worth of goods and services to the rest of the world while it imports millions more While the value of the EU s international trade in goods and services with the rest of the world has expanded at a relatively fast pace compared with the value of trade between EU Member States intra EU trade this has not prevented a gradual reduction in the EU s share of global trade Between 2007 and 2012 the EU 28 s share of global trade fell strongly before recovering somewhat through until 2017 In 2017 some 17 8 % of world exports for goods and services originated from the EU 28 as such its share of world exports was 1 0 percentage points lower than a decade earlier 18 8 % but 1 3 percentage points higher than the share 16 5 % recorded in 2012 It should be noted that the high share in 2007 preceded the global financial and economic crisis which impacted strongly and for several years on the EU s economy By contrast there was a more marked reduction in the share of the EU 28 in world imports for goods and services as its share of the global trade was 16 3 % in 2017 a reduction of 3 7 percentage points compared with a decade earlier The most striking feature concerning developments for world shares of international trade in goods and services between 2007 and 2017 was the continued progression of China as one of the world s leading trading nations China s share of the world exports for goods and services rose from 9 8 % to 13 5 % during the period under consideration while its share of imports grew at an even faster pace increasing by 5 1 percentage points to reach 12 6 % in 2017 see Figure 3 (Probability: 0.5068103671073914)
+--------------------------------------------------
+Database by themes; Population and social conditions; Labour market; Employment and unemployment Labour force survey ; LFS ad hoc modules; 2020 Accidents at work and other work related health problems; Accidents at work; Persons reporting an accident at work by sex; age and educational attainment level  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Fhlth_dpeh030.tsv.gz (Probability: 0.5063667893409729)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3231  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/gdp_deflator (Probability: 0.5063201785087585)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ilc_iei  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm8823 (Probability: 0.5015910863876343)
+--------------------------------------------------
+Overcrowding rate by income quintile total population EU SILC survey  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Production boundary (Probability: 0.49988865852355957)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm8934  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/isoc_bdek_smi (Probability: 0.49888473749160767)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/trng_ent19n  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Eurostat defines the following sectors as knowledge intensive services  KIS  Knowledge intensive high tech services  Post and Telecommunications  64   Computer and related activities  72   Research and development  73 Knowledge intensive market services  excluding financial intermediation and high tech services   Water transport  61   Air transport  62   Real estate activities  70   Renting of machinery and equipment without operator  and of personal and household goods  71   Other business activities  74 Knowledge intensive financial services  Financial intermediation  except insurance and pension funding  65   Insurance and pension funding  except compulsory social security  66   Activities auxiliary to financial intermediation  67 Other knowledge intensive services  Education  80   Health and social work  85   Recreational  cultural and sporting activities  92 (Probability: 0.4953332543373108)
+--------------------------------------------------
+1792  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  4 (Probability: 0.4939015805721283)
+--------------------------------------------------
+Labour cost index  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/employe (Probability: 0.49362877011299133)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm9665  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Expert judgment (Probability: 0.49287647008895874)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/hlth_cdeath  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  close (Probability: 0.49028992652893066)
+--------------------------------------------------
+Database by themes; Population and social conditions; Education and training; Participation in education and training  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/environment_and_energy (Probability: 0.48988649249076843)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Flfsa_pgaed.tsv.gz  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference7046 (Probability: 0.48651090264320374)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1811  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/livcon (Probability: 0.47443124651908875)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3551  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/lfsa_ergaedcob (Probability: 0.4683036208152771)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/enps_fish  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph10237_4353 (Probability: 0.46610334515571594)
+--------------------------------------------------
+Concealed production  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Non life insurance claims (Probability: 0.4654010832309723)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/education-and-training/overview  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Database by themes; Industry; trade and services; Structural business statistics; SBS services; Financial services statistics; Statistics on pension funds; Non autonomous pension funds (Probability: 0.4575854241847992)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph6906_1667  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle1446 (Probability: 0.45659708976745605)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Publication  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  The EU 28 s share of world exports of goods and services was 17 8 % in 2017 On average every day the EU 28 exports millions of euros worth of goods and services to the rest of the world while it imports millions more While the value of the EU s international trade in goods and services with the rest of the world has expanded at a relatively fast pace compared with the value of trade between EU Member States intra EU trade this has not prevented a gradual reduction in the EU s share of global trade Between 2007 and 2012 the EU 28 s share of global trade fell strongly before recovering somewhat through until 2017 In 2017 some 17 8 % of world exports for goods and services originated from the EU 28 as such its share of world exports was 1 0 percentage points lower than a decade earlier 18 8 % but 1 3 percentage points higher than the share 16 5 % recorded in 2012 It should be noted that the high share in 2007 preceded the global financial and economic crisis which impacted strongly and for several years on the EU s economy By contrast there was a more marked reduction in the share of the EU 28 in world imports for goods and services as its share of the global trade was 16 3 % in 2017 a reduction of 3 7 percentage points compared with a decade earlier The most striking feature concerning developments for world shares of international trade in goods and services between 2007 and 2017 was the continued progression of China as one of the world s leading trading nations China s share of the world exports for goods and services rose from 9 8 % to 13 5 % during the period under consideration while its share of imports grew at an even faster pace increasing by 5 1 percentage points to reach 12 6 % in 2017 see Figure 3 (Probability: 0.442441463470459)
+--------------------------------------------------
+CODEDTerm  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph10290_4462 (Probability: 0.4408913850784302)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/epidemiology  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=The_EU_in_the_world_-_health (Probability: 0.43634292483329773)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/livcon  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  http://ec.europa.eu/dgs/education_culture/index_en.htm (Probability: 0.43158674240112305)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData168  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1043 (Probability: 0.42875024676322937)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference12388  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Standard classifications are those that follow prescribed rules and are generally recommended and accepted They aim to ensure that information is classified consistently regardless of the collection source point of time etc (Probability: 0.4283735454082489)
+--------------------------------------------------
+https://stats.oecd.org/glossary/detail.asp?ID=4604  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/migr_asydcfstq (Probability: 0.42704644799232483)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/education-and-training/overview  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  A class with the related statistical data references for the glossray articles (Probability: 0.4158034324645996)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/education_and_training_statistics  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/enps_fish (Probability: 0.4157901406288147)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle1446  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  GDP deflator (Probability: 0.4101312458515167)
+--------------------------------------------------
+Tables on EU policy; Europe 2020 indicators; Resource efficiency indicators; Transforming the economy; Turning waste into a resource; Recycling rate of e waste  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/anti_dumping_measures (Probability: 0.40791213512420654)
+--------------------------------------------------
+Cost benefit analysis  effectiveness of execution of medium term statistical programmes  and ensuring efficient use of resources  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Amounts that have not been paid by the date specified in a contract or within a normal commercial period for similar transactions Payment arrears may arise from nonpayment by government in such areas as bills due from suppliers due salaries or transfers or due debt repayment or service (Probability: 0.40630584955215454)
+--------------------------------------------------
+The EU in the world  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle434 (Probability: 0.40558022260665894)
+--------------------------------------------------
+Population density  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/StatisticalData (Probability: 0.404674768447876)
+--------------------------------------------------
+http://hdr.undp.org/en/statistics/  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Dedicated Section (Probability: 0.40187814831733704)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph10237_4353  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/prc_colc (Probability: 0.40015679597854614)
+--------------------------------------------------
+Collaborative economy platforms  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Statistics Explained Articles References (Probability: 0.40009164810180664)
+--------------------------------------------------
+318  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/footnote (Probability: 0.3995712697505951)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3384  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/FurtherInfo (Probability: 0.39188987016677856)
+--------------------------------------------------
+easili  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Land and buildings (Probability: 0.3916293680667877)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/t_envir  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Paragraph (Probability: 0.3744772970676422)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/education_and_training_statistics  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Paragraph (Probability: 0.36863765120506287)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1880  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Error report (Probability: 0.3646829128265381)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Publication  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/teieuro_na (Probability: 0.3613148629665375)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle8267  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Tables by themes; Economy and finance; National accounts including GDP ; Annual national accounts; Main GDP aggregates; Taxes on production and imports less subsidies (Probability: 0.35023200511932373)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/hlth_db_emmaag  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle1446 (Probability: 0.3460642397403717)
+--------------------------------------------------
+Cross cutting topics; Quality of life; Leisure and social interactions; Social interactions  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/local_labour_markets (Probability: 0.33973702788352966)
+--------------------------------------------------
+Article  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/CODEDTerm (Probability: 0.33752474188804626)
+--------------------------------------------------
+ASEAN website  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/invariance_to_proportional_change_in_current_or_base_quantities_test (Probability: 0.3368043899536133)
+--------------------------------------------------
+Database by themes; Transport; Road transport; Road transport equipment stock of vehicles; Road tractors by type of motor energy  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  European Commission   Internal market  Industry  Entrepreneurship and SMEs (Probability: 0.3299824595451355)
+--------------------------------------------------
+Blended payments  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  1467 (Probability: 0.32981353998184204)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossary  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Database by themes; Population and social conditions; Health; Health status; Self perceived health and well being; Severity of bodily pain by sex; age and country of citizenship (Probability: 0.32263320684432983)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ilc_md  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference12388 (Probability: 0.319770872592926)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/individual_quota  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/employe (Probability: 0.31723013520240784)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/employment_and_health  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Economy and finance glossary (Probability: 0.3147676885128021)
+--------------------------------------------------
+Crime location  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  A class with the dedicated section resources (Probability: 0.31292787194252014)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference10435  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  apro_mk_strpd (Probability: 0.3115383982658386)
+--------------------------------------------------
+4091  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/consumption_expenditures_of_the_populationcep (Probability: 0.31061187386512756)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference9238  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Fmed_en47.tsv.gz (Probability: 0.30663159489631653)
+--------------------------------------------------
+318  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ExternalLink (Probability: 0.29871639609336853)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference4658  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  A class with the further info references for the glossray articles (Probability: 0.29478129744529724)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/web/covid-19/population-health  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  tag00055 (Probability: 0.2911756634712219)
+--------------------------------------------------
+Carriage of goods by two or more modes of transport  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph7253_1869 (Probability: 0.2852762043476105)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/iss_18genens  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Fcpc_pslm.tsv.gz (Probability: 0.2807028889656067)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/FurtherInfo  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Population by sex age and household status (Probability: 0.2755870521068573)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1043  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle420 (Probability: 0.2577139437198639)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/estimator  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Overcrowding rate by income quintile total population EU SILC survey (Probability: 0.2325616031885147)
+--------------------------------------------------
+lfst_hhptety  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference352 (Probability: 0.21322417259216309)
+--------------------------------------------------
+https://stats.oecd.org/glossary/detail.asp?ID=4223  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Almost one in three enterprises uses operational customer relationship management Enterprises streamline their marketing efforts and target their customers to maximise business potential For this specific purpose they use software applications for managing information about their customers i e customer relationship management CRM applications It is believed that the adoption of CRM increases marketing and sales performance by improving customer service and customer relationships Enhancements come for instance from providing user friendly mechanisms for receiving complaints identifying potential problems before they occur in general by facilitating communication with the customer and by anticipating customer preferences These technology enabled improvements lead to long term customer satisfaction and can ensure increased customer loyalty decreasing marketing costs and increasing sales The share of EU enterprises using CRM stood at 33 % and recorded a slight decline by 1 percentage point in 2019 compared to 2017 Figure 1 The use of CRM software applications to capture store and make available information about the enterprise s customers to other business functions is described as operational CRM As shown in Figure 7 in 2019 some 32 % of EU enterprises reported using operational CRM Furthermore a CRM software application can be used to analyse customer information to identify patterns of customer preferences and behaviour analytical CRM This information is essentially used for marketing purposes such as sales promotions that are effective in creating interest in a product or for optimising market penetration through the use of alternative distribution channels In 2019 some 19 % of EU enterprises used analytical CRM for such sophisticated purposes The share registered for large enterprises 43 % was almost three times higher than the share recorded for small enterprises 16 % Figure 7 As regards the activity of enterprises in 2019 the adoption levels of analytical CRM were much lower than those of operational CRM The smallest difference between the shares of enterprises using analytical CRM and operational CRM was recorded in both the accommodation sector and the retail trade sector 32 % to 40 % and 22 % to 30 % respectively see Figure 8 Figure 9 presents the adoption levels of analytical CRM and operational CRM in the Member States The highest shares of enterprises using operational CRM were recorded in the Netherlands 55 % Belgium 45 % and Germany 43 % Analytical CRM was used most again in the Netherlands and also in Finland 26 % both Belgium Ireland and Malta 25 % each (Probability: 0.2109401375055313)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Publication  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Database by themes; Industry; trade and services; Structural business statistics; SBS services; Financial services statistics; Statistics on pension funds; Non autonomous pension funds (Probability: 0.2107238918542862)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/teieuro_na  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  1467 (Probability: 0.2050076276063919)
+--------------------------------------------------
+inn_cis4_oref  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/t_envir (Probability: 0.20493270456790924)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ilc_mdsd  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceData1714 (Probability: 0.2016143649816513)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3551  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Paragraph (Probability: 0.19222083687782288)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference10265  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/RelatedStatisticalData (Probability: 0.19096747040748596)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/footnote  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/cpc_sc (Probability: 0.1884009838104248)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/news/themes-in-the-spotlight/trade-in-goods-2018  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/ef_ov_lfft (Probability: 0.18061622977256775)
+--------------------------------------------------
+2003-04-28T00:00:00  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  2001-11-13T00:00:00 (Probability: 0.1750161200761795)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/develop  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Quarterly accounts (Probability: 0.1697753369808197)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/statistical_message  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/term-->  Expenditure on education in constant prices (Probability: 0.16174356639385223)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts262  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/employe (Probability: 0.15989899635314941)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/nama_10r_3nlp  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1983 (Probability: 0.15955568850040436)
+--------------------------------------------------
+measur  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Tables of magnitude data (Probability: 0.1549134999513626)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference9238  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/budget_calendar (Probability: 0.15060573816299438)
+--------------------------------------------------
+2003-03-06T00:00:00  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  http://ec.europa.eu/eurostat/web/education-and-training/overview (Probability: 0.14962244033813477)
+--------------------------------------------------
+The EU in the world  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm68 (Probability: 0.1464352309703827)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/qol_lei_soc  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  apro_mk_strpd (Probability: 0.12017308920621872)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/cens_01n  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Flfsq_e2gps.tsv.gz (Probability: 0.11823687702417374)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/consumption_expenditures_of_the_populationcep  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference6764 (Probability: 0.11328793317079544)
+--------------------------------------------------
+Database by themes; Transport; Road transport; Road transport equipment stock of vehicles; Road tractors by type of motor energy  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Examples of joint products are meat and hides produced by slaughtering animals or sugar and molasses produced by refining sugar canes (SNA 2008, § 5.49). (Probability: 0.11050989478826523)
+--------------------------------------------------
+Non sampling errors  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/individual_quota (Probability: 0.10335303843021393)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/isoc_bdek_smi  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/non_eu_countries (Probability: 0.10309533774852753)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference12357  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Central and South America is a net exporter of travel related services to the EU (Probability: 0.10298129916191101)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/develop  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://stats.oecd.org/glossary/detail.asp?ID=7285 (Probability: 0.09399496763944626)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts2490  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Land cover statistics (Probability: 0.08741316944360733)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/error_report  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  General information (Probability: 0.08426008373498917)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/education_and_training  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts764 (Probability: 0.08312764763832092)
+--------------------------------------------------
+Labour cost index  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle75 (Probability: 0.08154714107513428)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle8918  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Maturity distribution (Probability: 0.07347168028354645)
+--------------------------------------------------
+Domestic material consumption per capita  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  The average population during a calendar year is generally calculated as the arithmetic mean of the population on 1 January of two consecutive years  it is also referred to as the mean population   However  some countries calculate it differently  using the population based on registers or estimating it on a date close to 1 July  mid year population (Probability: 0.07270023226737976)
+--------------------------------------------------
+lfsq_epgais  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  1 (Probability: 0.0711006224155426)
+--------------------------------------------------
+Database by themes; Population and social conditions; Labour market; Employment and unemployment Labour force survey ; LFS ad hoc modules; 2020 Accidents at work and other work related health problems; Accidents at work; Persons reporting an accident at work by sex; age and educational attainment level  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  A class with the Eurostat themes (Probability: 0.07030893117189407)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/transport/overview  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  gov_10a_ggfa (Probability: 0.07026032358407974)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/sbs_ins_5a  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Common property resources environmental are natural resources owned and managed collectively by a community or society rather than by individuals (Probability: 0.07021689414978027)
+--------------------------------------------------
+1  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/contributionto_a_pension_plan (Probability: 0.06360689550638199)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/prices_and_purchasing_power_partities  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/interval_estimation (Probability: 0.052380405366420746)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph10237_4353  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/products_and_prices (Probability: 0.04670228064060211)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/tespnthird  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/standard_classifications (Probability: 0.04662121832370758)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/GlossaryArticle  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  3 (Probability: 0.04268771409988403)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1880  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle407 (Probability: 0.03965895622968674)
+--------------------------------------------------
+iso iec fdis 11179 1 information technology metadata registries part 1 framework march 2004  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm10273 (Probability: 0.03673851117491722)
+--------------------------------------------------
+http://www.w3.org/2004/02/skos/core#Concept  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  3419 (Probability: 0.0347922258079052)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/tourism/data/database  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts2161 (Probability: 0.029264943674206734)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm10273  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/tin00071 (Probability: 0.02751949243247509)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/t_envir  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Glossary (Probability: 0.02494017779827118)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph561_2236  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Overcrowding rate by income quintile total population EU SILC survey (Probability: 0.023702653124928474)
+--------------------------------------------------
+Examples of joint products are meat and hides produced by slaughtering animals or sugar and molasses produced by refining sugar canes (SNA 2008, § 5.49).  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Error report (Probability: 0.020842282101511955)
+--------------------------------------------------
+Labour force survey in the EU  EFTA  United Kingdom and candidate countries   Main characteristics of national surveys  2019  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm8742 (Probability: 0.017442796379327774)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/products_and_prices  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Reweighting (Probability: 0.014502380043268204)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph561_2236  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm10497 (Probability: 0.012878579087555408)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/nama_10_pc  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Unemployment_statistics (Probability: 0.011792882345616817)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference1762  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Ftec00019.tsv.gz (Probability: 0.011411602608859539)
+--------------------------------------------------
+Unit labour costs OECD  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Paragraph (Probability: 0.010800858959555626)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Fisoc_sk_edic_i21.tsv.gz  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts707 (Probability: 0.010451081208884716)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/informationcommunication_technologyictsector  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/lfsa_pgaed (Probability: 0.010446712374687195)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Residence_permits_-_statistics_on_first_permits_issued_during_the_year  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/news/themes-in-the-spotlight/trade-in-goods-2018 (Probability: 0.009352196007966995)
+--------------------------------------------------
+Error report  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/estimator (Probability: 0.009183908812701702)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference11139  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3581 (Probability: 0.00853473786264658)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/epidemiology  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  iso iec fdis 11179 1 information technology metadata registries part 1 framework march 2004 (Probability: 0.008355320431292057)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/easili  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/enps_fish (Probability: 0.007944094948470592)
+--------------------------------------------------
+exceed  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Alphabetised list of terms with definitions (Probability: 0.007140247151255608)
+--------------------------------------------------
+a  An indicator for the output or value added generated per unit of nature  materials energy pollution  used  b  A social action strategy which seeks to reduce the use of materials in the economy in order to reduce undesirable environmental impacts  Ever smaller quantities of materials have to produce a relatively higher degree of economic affluence  The general objective of eco efficiency is to get more from less  this is known as qualitative growth  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/nama_10r_3nlp (Probability: 0.007106999401003122)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference868  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Any crossing point authorised by the competent authorities for the crossing of external borders (Probability: 0.007022407371550798)
+--------------------------------------------------
+Additivity PPI  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Farm structure survey     methodological articles (Probability: 0.00654452433809638)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/product?code=KS-02-19-165&language=en  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://eacea.ec.europa.eu/national-policies/eurydice/sites/eurydice/files/ec0319375enn_0.pdf (Probability: 0.0064032780937850475)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/gov_10a_ggfa  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference2423 (Probability: 0.006044653709977865)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/ef_ov_lfft  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ilc_iei (Probability: 0.005520306993275881)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/paragraph8267_2514  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Auxiliary services (Probability: 0.005375716369599104)
+--------------------------------------------------
+http://purl.org/dc/dcmitype/Text  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Debts (Probability: 0.005199265666306019)
+--------------------------------------------------
+Tables of magnitude data  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Database by themes; Population and social conditions; Living conditions and welfare; Income and living conditions (Probability: 0.004937207326292992)
+--------------------------------------------------
+nama_10r_3nlp  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  First residence permits by citizenship (Probability: 0.004840119741857052)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/easili  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts2490 (Probability: 0.0047760698944330215)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryterm1581  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OECDTheme (Probability: 0.004764884244650602)
+--------------------------------------------------
+301  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts1194 (Probability: 0.00460015656426549)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/statistical_metadata  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/consumption_expenditures_of_the_populationcep (Probability: 0.004421086981892586)
+--------------------------------------------------
+The ESS Report 2013  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/sdg_14_50 (Probability: 0.004347929265350103)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference14  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Database by themes; Industry; trade and services; Structural business statistics; SBS trade; Breakdown of turnover by product trade (Probability: 0.003532912116497755)
+--------------------------------------------------
+Methodology  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/teieuro_na (Probability: 0.0033849477767944336)
+--------------------------------------------------
+Database by themes; Industry; trade and services; Structural business statistics; SBS services; Financial services statistics; Statistics on pension funds; Non autonomous pension funds  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Long range transport of air pollutants LRTAP refers to the atmospheric transport of air pollutants within a moving air mass for a distance greater than 100 kilometres (Probability: 0.0030675833113491535)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts707  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  lfst_hhptety (Probability: 0.0028454482089728117)
+--------------------------------------------------
+Statistics Explained Articles References  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/enps_fish (Probability: 0.0026823070365935564)
+--------------------------------------------------
+Population and population change statistics  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Changes in consumption behaviour impact on value added (Probability: 0.002522681374102831)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/migr_dubro  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  exceed (Probability: 0.0023717698641121387)
+--------------------------------------------------
+4091  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference3551 (Probability: 0.002097917487844825)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/web/social-protection/data/database  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Dedicated Section (Probability: 0.0019802171736955643)
+--------------------------------------------------
+2003-03-05T00:00:00  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Participating countries have the option to provide either complete break corrected series to Eurostat or correction factors that will be applied to the series from 2009 to 2020 For the production of the correction input countries follow various methodologies including pilot surveys and modelling approaches using past EU LFS data or other data as auxiliary information The table below lists the correction methodologies used by each country and is filled once this information is available For the correction of the remaining time series of optional indicators published in the LFS main indicators section Eurostat uses various methodologies to correct the remaining time series published in the LFS Main Indicators section on the basis of the mandatory correction information provided by countries Depending on the type of correction input received Eurostat derives missing estimates as shares from corrected employment and unemployment estimates The figure below gives an overview of the different methodologies used by Eurostat to correct LFS Main Indicators series Series Countries have the option to send complete break corrected time series to Eurostat These series will include 2009Q1 2020Q4 data and are directly usable and published on Eurobase as received If countries send series for years before 2009 these will also be published as received Factors Factors can be either of multiplicative or additive nature A maximum of eight factors in total is accepted up to two factors per quarter for a maximum of four quarters These factors will be applied to all the years 2009 2020 This means that the same factors for each quarter are applied throughout the years 2009 2020 No country input If Eurostat receives no correction input for the additional ILO age groups or optional indicators back data needs to be derived More specifically if Eurostat receives no input for the optional ILO age groups for employment 25 54 55 64 55 74 and unemployment 20 64 25 54 55 64 55 74 age groups are derived as shares from the corrected ILO age groups sent by countries For this the level of employment unemployment as a share is calculated in original data before 2021 This share is then applied to the corrected employment unemployment totals which derive from age groups that countries sent The result of this calculation are corrected levels of employment unemployment that are comparable with data after 2020 Further if Eurostat receives no correction input for the optional indicators back data needs to be derived on the basis of corrected employment and unemployment data using the methodologies as described below Shares Eurostat first estimates the share of each series i e the specific optional indicator as a share of employment unemployment for each quarter of the data prior to 2021 2009Q1 2020Q4 Subsequently the same statistic is calculated for 2021 data that is available at the time of correction e g data for 2021Q1 2021Q2 etc depending data availability for each country Growth rates Following the calculation of shares the method of growth rates can be applied to calculate the corrected estimates for each indicator Eurostat calculates the growth rates of the share estimates between the quarters 2009Q1 2020Q4 and applies them backwards to the new share estimates 2021 average These corrected shares are then applied to the corrected employment or unemployment series to derive corrected levels for each indicator Differencing If Eurostat uses the differencing method instead of growth rates Eurostat calculates the difference between the share estimates between quarters 2009Q1 2020Q4 and applies them backwards to the new share estimates 2021 average These corrected shares are then applied to the corrected employment or unemployment series to derive corrected levels for each indicator (Probability: 0.0018897636327892542)
+--------------------------------------------------
+The mean number of children that would be born alive to a woman during her lifetime if she were to pass through her childbearing years conforming to the fertility rates by age of a given year  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/t_spr (Probability: 0.001873547793366015)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/road_eqs_roaene  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  FDI stocks (Probability: 0.00179092469625175)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/educ_uoe_enra  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Additivity PPI (Probability: 0.001680910587310791)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/prices_and_purchasing_power_partities  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference2423 (Probability: 0.0016751702642068267)
+--------------------------------------------------
+Island regions  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts2161 (Probability: 0.001486468012444675)
+--------------------------------------------------
+Migrant integration  mii  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Debts (Probability: 0.0013927679974585772)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/apro_ec  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/sdg_13 (Probability: 0.0013786809286102653)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/teieuro_na  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference10488 (Probability: 0.0012644700473174453)
+--------------------------------------------------
+Database by themes; Economy and finance; Prices; Correction coefficients  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  2003-03-06T00:00:00 (Probability: 0.0010609900346025825)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/epidemiology  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  HICP clothing (Probability: 0.0010078499326482415)
+--------------------------------------------------
+Designed to carry relatively small parcels of higher value chemicals  such as acids or polymers  Ships are typically relatively small  up to around 25 000 dwt  Chemical tankers are classed according to categories dictated by the International Maritime Organisation  IMO  that classes chemicals according to the level of hazard they represent  IMO class I represents the greatest hazard and requires ships with sophisticated tanks and cargo handling systems  often manufactured from stainless steel  IMO class II represents a lower class of hazard with relatively normal tanks and cargo handling systems  IMO class III refers to low hazard chemicals  such as many petroleum products  There is a blurring of the distinction between products and chemical tankers for these lower classifications  Lloyd  AC 22s Register  AC 22s classification chemical products carrier normally refers to a products tanker rather than a chemical tanker  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/statistics-explained/index.php?title=International_statistical_cooperation (Probability: 0.0009148864774033427)
+--------------------------------------------------
+2003-02-28T00:00:00  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  External Link (Probability: 0.0008787839906290174)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Hotels_and_similar_accommodation  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Expert judgment (Probability: 0.0008396231569349766)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?sort=1&file=data%2Fmed_en47.tsv.gz  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/water_resouces_and_sustainable_development (Probability: 0.0008237694855779409)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference13081  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://stats.oecd.org/glossary/detail.asp?ID=6209 (Probability: 0.0008049234747886658)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/Legislation  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Congresses and conferences form an economic sector defined by the concentration of people in time and space around specialised knowledge or themes requiring multipartite meeting  The transmission  exchange and renewal of knowledge constitutes the main objective of an activity whose social  cultural and economic repercussions are abundant  However  other congresses focused on leisure and non scientific themes do exist  contributing to the exchange of experiences and lifestyles If concentrating people is the main object of the activity  tourism is the environment in which it is produced  All congresses generate movements of people  often from great distances  and have their own tourist needs  requiring certain specific conditions  Congresses and conferences have been widely recognised within professional tourism (Probability: 0.000787276541814208)
+--------------------------------------------------
+Statistics on European cities  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/invariance_to_proportional_change_in_current_or_base_quantities_test (Probability: 0.0007753829704597592)
+--------------------------------------------------
+2003-03-06T00:00:00  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/ilc (Probability: 0.0007399088935926557)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/OECDTerm  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  Other Article (Probability: 0.0007300385041162372)
+--------------------------------------------------
+Crime location  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/oecd/pension_fund_administrator (Probability: 0.0006016070838086307)
+--------------------------------------------------
+close  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceConcepts2490 (Probability: 0.0005668486701324582)
+--------------------------------------------------
+iso iec fdis 11179 1 information technology metadata registries part 1 framework march 2004  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/SEArticle75 (Probability: 0.00034231855534017086)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference5016  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  European Commission   Internal market  Industry  Entrepreneurship and SMEs (Probability: 0.0003234722826164216)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceSource483  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/ontology/cens_01n (Probability: 0.0002904049470089376)
+--------------------------------------------------
+http://ec.europa.eu/eurostat/cache/metadata/en/isoc_reg_esms.htm  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference13022 (Probability: 0.0002735286543611437)
+--------------------------------------------------
+gov_10a_ggfa  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/reference868 (Probability: 0.0002488322206772864)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/lfsa_ergaedcob  --https://ec.europa.eu/eurostat/NLP4StatRef/ontology/level-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/edat_aes_l51 (Probability: 0.00024079550348687917)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/glossaryArticle1350  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/news/themes-in-the-spotlight/trade-in-goods-2018 (Probability: 7.006305531831458e-05)
+--------------------------------------------------
+https://ec.europa.eu/eurostat/NLP4StatRef/ontology/t_demo_fer  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  Ship designed for the towing and or pushing of ships or other floating structures Note   Port tugs are included (Probability: 6.527556979563087e-05)
+--------------------------------------------------
+Non sampling errors  --http://www.w3.org/1999/02/22-rdf-syntax-ns#type-->  https://ec.europa.eu/eurostat/NLP4StatRef/knowledge/referenceSource483 (Probability: 5.263455386739224e-05)
+--------------------------------------------------
